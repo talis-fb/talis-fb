@@ -2,11 +2,11 @@
 
 Me chamo Talison
 
-- Sou calouro do curso de Tecnologia da Informação na UFRN
-- Técnico em eletrônica pelo IFRN
-- Autodita por natureza
-- Apaixonado por tecnologia
-- E buscando experiência profissional
+- 💻 Sou calouro do curso de Tecnologia da Informação na UFRN
+- 🎓 Técnico em eletrônica pelo IFRN
+- ✒️ Autodita por natureza
+- 😍 Apaixonado por tecnologia
+- 🔍 E buscando experiência profissional
 
 ### Tecnologias que já trabalhei...
 
