@@ -7,7 +7,7 @@ Hi there! 👋
 - ✒️ Autodidact
 - 😍 Development Lover
 
-### Languages and tools...
+## Languages and tools...
 <p align="left">
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -33,3 +33,6 @@ Hi there! 👋
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=tokyonight)](https://github.com/talis-fb/github-readme-stats)
+
+### Take a look at my portfolio, if you want to see some cool projects...
+https://talis-fb.github.io/portfolio/projects
