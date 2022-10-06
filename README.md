@@ -42,7 +42,7 @@ Hi there! 👋
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=tokyonight)](https://github.com/talis-fb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=tokyonight)](https://github.com/talis-fb/github-readme-stats)
 
 ### Take a look at my portfolio, if you want to see some cool projects...
 https://talis-fb.github.io/portfolio/projects
