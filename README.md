@@ -12,7 +12,7 @@ Hi there! 👋
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim)]()
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nest,docker,redis,mongo,firebase,heroku)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nest,django,docker,redis,mongo,firebase,heroku)]()
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,next,sass,jest)]()
 
