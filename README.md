@@ -7,7 +7,7 @@ Hi there! 👋
 - 😍 Development Lover
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cpp,rust,lua,bash)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,rust,c,cpp,lua)]()
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim)]()
