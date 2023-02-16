@@ -2,6 +2,8 @@
 Hi there! 👋
 </h1>
 
+Portfolio: [talison.dev](https://talison.dev/)
+
 - 💻 IT's Undergraduate Student at UFRN (Federal University of Rio Grande do Norte 🇧🇷)
 - ✒️ Autodidact
 - 😍 Development Lover
@@ -22,6 +24,4 @@ Hi there! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=talis-fb&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
-### Take a look at my portfolio, if you want to see some cool projects...
-https://talis-fb.github.io/portfolio/projects
 
