@@ -5,7 +5,7 @@ Hi there! 👋
 Portfolio: [talison.dev](https://talison.dev/)
 
 - 🧑🏻‍💻 Back-end developer at [IMD](https://portal.imd.ufrn.br) working in a Intelbras's project
-- 💻 IT's Undergraduate Student at UFRN (Federal University of Rio Grande do Norte 🇧🇷)
+- 💻 IT Undergraduate Student at UFRN (Federal University of Rio Grande do Norte 🇧🇷)
 - ✒️ Autodidact
 - 🚀 Building something...
 
