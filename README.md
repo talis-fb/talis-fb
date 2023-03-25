@@ -15,7 +15,7 @@ Portfolio: [talison.dev](https://talison.dev/)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim,ansible)]()
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nest,django,docker,redis,postgres,mongo,firebase,heroku)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nest,django,fastapi,docker,redis,postgres,mongo,firebase,rabbitmq)]()
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,next,sass,jest)]()
 
