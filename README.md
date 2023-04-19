@@ -10,12 +10,12 @@ Portfolio: [talison.dev](https://talison.dev/)
 - 🚀 Building something...
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,rust,c,cpp,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=py,rust,ts,js,c,cpp,lua)]()
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim,ansible)]()
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nest,django,fastapi,docker,redis,postgres,mongo,firebase,rabbitmq)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,nodejs,nest,django,fastapi,postgres,redis,mongo,firebase,rabbitmq)]()
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,next,sass,jest)]()
 
