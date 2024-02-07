@@ -2,20 +2,22 @@
 Hi there! 👋
 </h1>
 
-Portfolio: [talison.dev](https://talison.dev/)
+- 🧑🏻‍💻 I'm a back-end developer at [IMD](https://portal.imd.ufrn.br), currently working on a project for [Intelbras](https://www.intelbras.com/)
+- 💻 IT Undergraduate Student at [UFRN](https://ufrn.br/) (Federal University of Rio Grande do Norte 🇧🇷)
+- I usually build software with brain and a colorful terminal!
+- If you want to make me happy, let's chat about Linux, Rust, or functional programming!
 
-- 🧑🏻‍💻 Back-end developer at [IMD](https://portal.imd.ufrn.br) currently working on a project for [Intelbras](https://www.intelbras.com/)
-- 💻 IT Undergraduate Student at UFRN (Federal University of Rio Grande do Norte 🇧🇷)
-- ✒️ Self-taught
-- 🚀 Building something...
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,rust,ts,js,c,cpp,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,py,ts,js,lua)]()
+
+### Some experience with...
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp)]()
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim,ansible)]()
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nodejs,nest,django,fastapi,postgres,redis,mongo,firebase,rabbitmq)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,django,fastapi,nodejs,nest,postgres,rabbitmq,redis,mongo,firebase)]()
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,next,sass,jest)]()
 
