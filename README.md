@@ -3,9 +3,9 @@ Hi there! 👋
 </h1>
 
 - 🧑🏻‍💻 I'm a back-end developer at [IMD](https://portal.imd.ufrn.br), currently working on a project for [Intelbras](https://www.intelbras.com/)
-- 💻 IT Undergraduate Student at [UFRN](https://ufrn.br/) (Federal University of Rio Grande do Norte 🇧🇷)
-- I usually build software with brain and a colorful terminal!
-- If you want to make me happy, let's chat about Linux, Rust, or functional programming!
+- 📚 IT Undergraduate Student at [UFRN](https://ufrn.br/) (Federal University of Rio Grande do Norte 🇧🇷)
+- 🧠 I usually build software with a brain and a colorful terminal!
+- ☕ If you want to make me happy, let's chat about Linux, Rust, or functional programming!
 
 
 ## Languages
