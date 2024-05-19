@@ -9,10 +9,10 @@ Hi there! 👋
 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=rust,py,ts,js,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,py,ts,java)]()
 
 ### Some experience with...
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=go,kotlin,lua,c,cpp)]()
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim,ansible)]()
