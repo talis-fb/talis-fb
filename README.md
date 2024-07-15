@@ -23,8 +23,9 @@ Hi there! 👋
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=talis-fb&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
+<div> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=talis-fb&show_icons=true&theme=github_dark">
+</div>
 
 
