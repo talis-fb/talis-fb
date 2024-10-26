@@ -12,9 +12,9 @@ Hi there! 👋
 [![My Skills](https://skillicons.dev/icons?i=rust,py,ts,java,go,kotlin,lua,c,cpp)]()
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,neovim,ansible)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,ansible,gitlab,bitbucket)]()
 
-[![My Skills](https://skillicons.dev/icons?i=docker,django,fastapi,nodejs,nest,postgres,rabbitmq,redis,mongo,firebase)]()
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,nest,fastapi,postgres,rabbitmq,redis,mongo,firebase)]()
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,nuxt,next,sass,jest)]()
 
