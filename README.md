@@ -21,7 +21,7 @@ Hi there! 👋
 <br />
 
 <div> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&langs_count=10&hide=vue&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talis-fb&langs_count=10&hide=vue,html,css&layout=compact&show_icons=true&theme=github_dark">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=talis-fb&show_icons=true&theme=github_dark">
 </div>
 
