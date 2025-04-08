@@ -9,14 +9,16 @@ Hi there! 👋
 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=rust,py,ts,java,go,kotlin,lua,c,cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,py,ts,go,java,lua,c,cpp)]()
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,ansible,gitlab,bitbucket)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,ansible)]()
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,nest,fastapi,postgres,rabbitmq,redis,mongo,firebase)]()
+[![My Skills](https://skillicons.dev/icons?i=spring,django,fastapi,nodejs,nest,rocket)]()
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,nuxt,next,sass,jest)]()
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,prometheus,rabbitmq,kafka)]()
+
+[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind)]()
 
 <br />
 
